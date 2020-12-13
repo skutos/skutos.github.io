@@ -21,9 +21,8 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Dimension</h1>
-								<p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-								for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+								<h1>Microbial Communities</h1>
+								<p>Hello. I am a fifth year Ph.D. Candidate in the J.D. Lewis Lab at Fordham University in New York, NY. We are a forest ecology lab that utilizes the microbial world to answer community scale questions.</p>
 							</div>
 						</div>
 						<nav>
